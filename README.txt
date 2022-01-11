@@ -1,0 +1,2 @@
+- Played with the arrow keys.
+- Once the game is lost, you will need to restart the game to play again.
